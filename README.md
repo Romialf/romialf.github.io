@@ -7,8 +7,6 @@
 # 
 # This version is a modification of conkyrc_lunatico wich is modification of conkyrc_orange
 # 
-# conkyrc_orange:    http://gnome-look.org/content/show.php?content=137503&forumpage=0
-# conkyrc_lunatico:  http://gnome-look.org/content/show.php?content=142884
 #==============================================================================
 
 background yes
