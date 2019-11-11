@@ -1,2 +1,1 @@
-#Romialf.GitHub.io
-#conky
+conkyseamod
