@@ -1,2 +1,2 @@
 Ricing Conky Seamod
-![conky](https://user-images.githubusercontent.com/57595007/68706406-c1bad100-05ca-11ea-90a6-74fa3be2fb10.png)
+![newconky](https://user-images.githubusercontent.com/57595007/68737806-88f91700-061f-11ea-825b-8df9bc1b46d7.png)
